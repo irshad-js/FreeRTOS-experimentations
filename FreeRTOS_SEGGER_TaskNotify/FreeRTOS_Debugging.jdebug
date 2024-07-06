@@ -1,0 +1,40 @@
+
+/*********************************************************************
+*
+*       OnProjectLoad
+*
+* Function description
+*   Project load routine. Required.
+*
+**********************************************************************
+*/
+void OnProjectLoad (void) {
+
+  Project.SetDevice ("Cortex-M33");
+  Project.SetHostIF ("USB", "");
+  Project.SetTargetIF ("SWD");
+  Project.SetTIFSpeed ("1 MHz");
+  Project.AddSvdFile ("Cortex-M33.svd");
+  Project.AddSvdFile ("ARMv8M.svd");
+  File.Open ("Debug/FreeRTOS_SEGGER_TaskNotify.elf");
+}
+
+
+/*********************************************************************
+*
+*       AfterTargetReset
+*
+* Function description
+*   Event handler routine. Optional.
+*
+**********************************************************************
+*/
+void AfterTargetReset (void) {
+        /* SYS_CTRL_REG: remap RAM to 0, enable pad latches and debuggers */
+        Target.WriteU16(0x50000024, 0xE3);
+
+        /* FPGA_CTRL_REG: set FPGA_MAC_READY to 1 */
+        Target.WriteU32(0x500000D8, 0x10);
+        
+}
+

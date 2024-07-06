@@ -1,0 +1,39 @@
+Breakpoint=main.c:53, State=BP_STATE_DISABLED
+Breakpoint=main.c:61, State=BP_STATE_DISABLED
+Breakpoint=main.c:96, State=BP_STATE_DISABLED
+Breakpoint=main.c:120, State=BP_STATE_ON
+Breakpoint=main.c:204, State=BP_STATE_DISABLED
+Breakpoint=port.c:427, State=BP_STATE_ON
+OpenDocument="main.c", FilePath="C:\Projects\Eclipse_projects\FreeRTOS_SEGGER_Interrupts\Debug\../src\main.c", Line=89
+OpenDocument="portmacro.h", FilePath="C:\Projects\Eclipse_projects\FreeRTOS_SEGGER_Interrupts\ThirdParty\FreeRTOS\org\Source\portable\GCC\ARM_CM3\portmacro.h", Line=178
+OpenDocument="port.c", FilePath="C:\Projects\Eclipse_projects\FreeRTOS_SEGGER_Interrupts\Debug\../ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3\port.c", Line=410
+OpenDocument="heap_4.c", FilePath="C:\Projects\Eclipse_projects\FreeRTOS_SEGGER_Interrupts\Debug\../ThirdParty/FreeRTOS/org/Source/portable/MemMang\heap_4.c", Line=373
+OpenDocument="list.c", FilePath="C:\Projects\Eclipse_projects\FreeRTOS_SEGGER_Template\Debug\../ThirdParty/FreeRTOS/org/Source\list.c", Line=71
+OpenDocument="system_ARMCM33.c", FilePath="C:\Projects\Eclipse_projects\FreeRTOS_SEGGER_Template\Debug\../src\system_ARMCM33.c", Line=0
+OpenDocument="SEGGER_RTT.h", FilePath="C:\Projects\FreeRTOS\RTOS_Workspace\RTOS_UART_DEMO_2\Debug\../ThirdParty/SEGGER/SEGGER\SEGGER_RTT.h", Line=0
+OpenDocument="tasks.c", FilePath="C:\Projects\FreeRTOS\RTOS_Workspace\RTOS_UART_DEMO_2\Debug\../ThirdParty/FreeRTOS/org/Source\tasks.c", Line=4750
+OpenDocument="startup_ARMCM33.S", FilePath="C:\Users\iahamed\Desktop\14690\booter\booter_prj\Debug\../src\startup_ARMCM33.S", Line=171
+OpenToolbar="File", Floating=0, x=1, y=0
+OpenToolbar="View", Floating=0, x=2, y=0
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenToolbar="Breakpoints", Floating=0, x=3, y=0
+OpenWindow="Call Stack", DockArea=RIGHT, x=0, y=0, w=756, h=318, FilterBarShown=0
+OpenWindow="Registers 1", DockArea=LEFT, x=0, y=2, w=519, h=338, FilterBarShown=0, FilteredItems=[]
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=2, w=519, h=338, FilterBarShown=1
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=1, w=756, h=621, FilterBarShown=0, ExecCountersShown=0
+OpenWindow="Source", x=0, y=0, w=0, h=0, FilterBarShown=0, ExecCountersShown=0
+OpenWindow="Break & Tracepoints", DockArea=LEFT, x=0, y=1, w=519, h=299, FilterBarShown=0
+OpenWindow="Memory 1", DockArea=BOTTOM, x=0, y=0, w=1920, h=114, FilterBarShown=0, EditorAddress=0x2002087C
+OpenWindow="Global Data", DockArea=RIGHT, x=0, y=1, w=756, h=621, FilterBarShown=1
+OpenWindow="Local Data", DockArea=RIGHT, x=0, y=1, w=756, h=621, FilterBarShown=0
+OpenWindow="Watched Data", DockArea=LEFT, x=0, y=2, w=519, h=338, FilterBarShown=0
+OpenWindow="Functions", DockArea=LEFT, x=0, y=0, w=519, h=301, FilterBarShown=1
+TableHeader="Watched Data", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Size";"Refresh";"Type"], ColWidths=[91;94;94;54;74;112]
+TableHeader="Global Data", SortCol="Location", SortOrder="DESCENDING", VisibleCols=["Name";"Value";"Location";"Size";"Type"], ColWidths=[217;198;94;54;176]
+TableHeader="Local Data", SortCol="Value", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Location";"Size";"Type"], ColWidths=[146;94;94;31;100]
+TableHeader="Source Files", SortCol="Status", SortOrder="ASCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[239;66;54;31;112]
+TableHeader="Registers 1", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Description"], ColWidths=[39;119;65]
+TableHeader="Break & Tracepoints", SortCol="None", SortOrder="ASCENDING", VisibleCols=["";"Type";"Location";"Extras"], ColWidths=[55;56;189;219]
+TableHeader="Functions", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Address";"Size";"#Insts";"Source"], ColWidths=[201;64;44;57;136]
+TableHeader="Call Stack", SortCol="Function", SortOrder="ASCENDING", VisibleCols=["Function";"Stack Info";"Source";"PC";"Return Address"], ColWidths=[344;112;176;77;87]
+TableHeader="tableWidgetSamples", SortCol="Index", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Channel 0"], ColWidths=[72;102;108]

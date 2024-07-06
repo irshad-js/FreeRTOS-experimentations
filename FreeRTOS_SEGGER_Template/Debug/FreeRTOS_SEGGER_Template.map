@@ -1,0 +1,1411 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-exit.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (exit)
+c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-init.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (__libc_init_array)
+c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcmp.o)
+                              ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o (memcmp)
+c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcpy.o)
+                              ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o (memcpy)
+c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memset.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (memset)
+c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
+                              ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o (strlen)
+c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-exit.o) (__call_exitprocs)
+c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-atexit.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o) (atexit)
+c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-fini.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__atexit.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-atexit.o) (__register_exitproc)
+c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+                              c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+xQueueRegistry      0x40              ./ThirdParty/FreeRTOS/org/Source/queue.o
+__lock___env_recursive_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+_SEGGER_RTT         0xa8              ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+__lock___dd_hash_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .data          0x00000000        0x0 ./startup/startup_ARMCM33.o
+ .bss           0x00000000        0x0 ./startup/startup_ARMCM33.o
+ .text          0x00000000        0x0 ./startup/system_ARMCM33.o
+ .data          0x00000000        0x0 ./startup/system_ARMCM33.o
+ .bss           0x00000000        0x0 ./startup/system_ARMCM33.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x1c ./startup/system_ARMCM33.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .text          0x00000000        0x0 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .data          0x00000000        0x0 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .bss           0x00000000        0x0 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .data._aTerminalId
+                0x00000000       0x10 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .bss._ActiveTerminal
+                0x00000000        0x1 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text._WriteBlocking
+                0x00000000       0xb4 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text._WriteNoCheck
+                0x00000000       0x80 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text._PostTerminalSwitch
+                0x00000000       0x34 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text._GetAvailWriteSpace
+                0x00000000       0x44 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_Read
+                0x00000000       0x36 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_WriteWithOverwriteNoLock
+                0x00000000      0x118 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_WriteNoLock
+                0x00000000       0x9c ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_Write
+                0x00000000       0x48 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_WriteString
+                0x00000000       0x26 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_PutCharSkipNoLock
+                0x00000000       0x6c ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_PutCharSkip
+                0x00000000       0x8c ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_PutChar
+                0x00000000       0xa0 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_GetKey
+                0x00000000       0x36 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_WaitKey
+                0x00000000       0x1c ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_HasKey
+                0x00000000       0x3c ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_HasData
+                0x00000000       0x38 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_HasDataUp
+                0x00000000       0x38 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_AllocDownBuffer
+                0x00000000       0xf8 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_AllocUpBuffer
+                0x00000000       0xfc ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_SetNameUpBuffer
+                0x00000000       0x68 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_SetNameDownBuffer
+                0x00000000       0x68 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_SetFlagsUpBuffer
+                0x00000000       0x68 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_SetFlagsDownBuffer
+                0x00000000       0x68 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_Init
+                0x00000000        0xc ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_SetTerminal
+                0x00000000       0xb8 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_TerminalOut
+                0x00000000      0x130 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text          0x00000000        0x0 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .data          0x00000000        0x0 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .bss           0x00000000        0x0 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text._EncodeData
+                0x00000000       0x4c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text._VPrintHost
+                0x00000000      0x180 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text._StoreChar
+                0x00000000       0xf6 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text._PrintUnsigned
+                0x00000000      0x130 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text._PrintInt
+                0x00000000      0x11e ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text._VPrintTarget
+                0x00000000      0x36c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_RecordU32x3
+                0x00000000       0xec ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_RecordU32x4
+                0x00000000      0x124 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_RecordU32x5
+                0x00000000      0x15c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_RecordU32x6
+                0x00000000      0x194 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_RecordU32x7
+                0x00000000      0x1cc ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_RecordU32x8
+                0x00000000      0x204 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_RecordU32x9
+                0x00000000      0x240 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_RecordU32x10
+                0x00000000      0x280 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_RecordString
+                0x00000000       0x48 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_RecordEnterTimer
+                0x00000000       0x84 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_RecordExitTimer
+                0x00000000       0x38 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_RecordEndCall
+                0x00000000       0x78 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_RecordEndCallU32
+                0x00000000       0xb0 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_OnTaskTerminate
+                0x00000000       0x88 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_OnTaskStopExec
+                0x00000000       0x38 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_OnTaskStopReady
+                0x00000000       0xc0 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_OnUserStart
+                0x00000000       0x78 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_OnUserStop
+                0x00000000       0x78 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_NameResource
+                0x00000000       0x90 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_SendPacket
+                0x00000000       0x38 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_EncodeU32
+                0x00000000       0x4e ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_EncodeString
+                0x00000000       0x20 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_EncodeData
+                0x00000000       0x20 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_EncodeId
+                0x00000000       0x60 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_ShrinkId
+                0x00000000       0x20 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_RegisterModule
+                0x00000000       0x90 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_RecordModuleDescription
+                0x00000000       0xf4 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_PrintfHostEx
+                0x00000000       0x2c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_PrintfHost
+                0x00000000       0x28 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_WarnfHost
+                0x00000000       0x28 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_ErrorfHost
+                0x00000000       0x28 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_PrintfTargetEx
+                0x00000000       0x2c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_PrintfTarget
+                0x00000000       0x28 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_WarnfTarget
+                0x00000000       0x28 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_ErrorfTarget
+                0x00000000       0x28 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_Error
+                0x00000000       0xb8 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_EnableEvents
+                0x00000000       0x24 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_DisableEvents
+                0x00000000       0x24 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_IsStarted
+                0x00000000       0x3c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .rodata._aV2C.5576
+                0x00000000       0x10 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text          0x00000000        0x0 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .data          0x00000000        0x0 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .bss           0x00000000        0x0 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .text.SYSVIEW_UpdateTask
+                0x00000000       0xe0 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .text.SYSVIEW_DeleteTask
+                0x00000000      0x178 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .text          0x00000000        0x0 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+ .data          0x00000000        0x0 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+ .bss           0x00000000        0x0 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+ .text          0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .data          0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .bss           0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .rodata.xHeapStructSize
+                0x00000000        0x4 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .text.xPortGetFreeHeapSize
+                0x00000000       0x14 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .text.xPortGetMinimumEverFreeHeapSize
+                0x00000000       0x14 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .text.vPortInitialiseBlocks
+                0x00000000        0xc ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .text          0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+ .data          0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+ .bss           0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+ .rodata.pcInterruptPriorityRegisters
+                0x00000000        0x4 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+ .text.vPortEndScheduler
+                0x00000000       0x34 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+ .text          0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/croutine.o
+ .data          0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/croutine.o
+ .bss           0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/croutine.o
+ .debug_info    0x00000000       0x93 ./ThirdParty/FreeRTOS/org/Source/croutine.o
+ .debug_abbrev  0x00000000       0x44 ./ThirdParty/FreeRTOS/org/Source/croutine.o
+ .debug_aranges
+                0x00000000       0x18 ./ThirdParty/FreeRTOS/org/Source/croutine.o
+ .debug_line    0x00000000      0x145 ./ThirdParty/FreeRTOS/org/Source/croutine.o
+ .debug_str     0x00000000      0x1da ./ThirdParty/FreeRTOS/org/Source/croutine.o
+ .comment       0x00000000       0x80 ./ThirdParty/FreeRTOS/org/Source/croutine.o
+ .ARM.attributes
+                0x00000000       0x33 ./ThirdParty/FreeRTOS/org/Source/croutine.o
+ .text          0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .data          0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .bss           0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .text.xEventGroupCreate
+                0x00000000       0x2e ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .text.xEventGroupSync
+                0x00000000      0x128 ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .text.xEventGroupWaitBits
+                0x00000000      0x168 ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .text.xEventGroupClearBits
+                0x00000000       0x6c ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .text.xEventGroupGetBitsFromISR
+                0x00000000       0x44 ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .text.xEventGroupSetBits
+                0x00000000      0x112 ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .text.vEventGroupDelete
+                0x00000000       0x60 ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .text.vEventGroupSetBitsCallback
+                0x00000000       0x1a ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .text.vEventGroupClearBitsCallback
+                0x00000000       0x1a ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .text.prvTestWaitCondition
+                0x00000000       0x42 ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .text.uxEventGroupGetNumber
+                0x00000000       0x2a ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .text.vEventGroupSetNumber
+                0x00000000       0x1a ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .debug_info    0x00000000     0x10f0 ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .debug_abbrev  0x00000000      0x327 ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .debug_aranges
+                0x00000000       0x78 ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .debug_ranges  0x00000000       0x68 ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .debug_line    0x00000000      0x5a2 ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .debug_str     0x00000000      0x9bf ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .comment       0x00000000       0x80 ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .debug_frame   0x00000000      0x1d0 ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .ARM.attributes
+                0x00000000       0x33 ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+ .text          0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/list.o
+ .data          0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/list.o
+ .bss           0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/list.o
+ .text.vListInsert
+                0x00000000       0x70 ./ThirdParty/FreeRTOS/org/Source/list.o
+ .text          0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .data          0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .bss           0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.xQueueGenericReset
+                0x00000000       0xd0 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.xQueueGenericCreate
+                0x00000000       0x76 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.prvInitialiseNewQueue
+                0x00000000       0x52 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.prvInitialiseMutex
+                0x00000000       0x34 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.xQueueCreateMutex
+                0x00000000       0x30 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.xQueueGiveMutexRecursive
+                0x00000000       0x66 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.xQueueTakeMutexRecursive
+                0x00000000       0x6a ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.xQueueCreateCountingSemaphore
+                0x00000000       0x62 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.xQueueGenericSend
+                0x00000000      0x214 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.xQueueGenericSendFromISR
+                0x00000000      0x150 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.xQueueGiveFromISR
+                0x00000000      0x13a ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.xQueueReceive
+                0x00000000      0x1f8 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.xQueueSemaphoreTake
+                0x00000000      0x24c ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.xQueuePeek
+                0x00000000      0x1b8 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.xQueueReceiveFromISR
+                0x00000000      0x136 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.xQueuePeekFromISR
+                0x00000000      0x106 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.uxQueueMessagesWaiting
+                0x00000000       0x3a ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.uxQueueSpacesAvailable
+                0x00000000       0x44 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000       0x38 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.vQueueDelete
+                0x00000000       0x4c ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.uxQueueGetQueueNumber
+                0x00000000       0x16 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.vQueueSetQueueNumber
+                0x00000000       0x1a ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.ucQueueGetQueueType
+                0x00000000       0x18 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.prvGetDisinheritPriorityAfterTimeout
+                0x00000000       0x2e ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.prvCopyDataToQueue
+                0x00000000       0xd4 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.prvCopyDataFromQueue
+                0x00000000       0x4c ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.prvUnlockQueue
+                0x00000000       0xa4 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.prvIsQueueEmpty
+                0x00000000       0x2c ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000       0x44 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.prvIsQueueFull
+                0x00000000       0x30 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x00000000       0x48 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.vQueueAddToRegistry
+                0x00000000       0x60 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.pcQueueGetName
+                0x00000000       0x4c ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text.vQueueUnregisterQueue
+                0x00000000       0x50 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .debug_info    0x00000000     0x1e44 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .debug_abbrev  0x00000000      0x34f ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .debug_aranges
+                0x00000000      0x128 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .debug_ranges  0x00000000      0x118 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .debug_line    0x00000000      0xc1e ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .debug_str     0x00000000      0xd61 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .comment       0x00000000       0x80 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .debug_frame   0x00000000      0x51c ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .ARM.attributes
+                0x00000000       0x33 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ COMMON         0x00000000       0x40 ./ThirdParty/FreeRTOS/org/Source/queue.o
+ .text          0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .data          0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .bss           0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.xStreamBufferGenericCreate
+                0x00000000       0xca ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.vStreamBufferDelete
+                0x00000000       0x56 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.xStreamBufferReset
+                0x00000000       0x80 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.xStreamBufferSetTriggerLevel
+                0x00000000       0x58 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.xStreamBufferSpacesAvailable
+                0x00000000       0x62 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.xStreamBufferBytesAvailable
+                0x00000000       0x38 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.xStreamBufferSend
+                0x00000000      0x17c ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.xStreamBufferSendFromISR
+                0x00000000       0xe8 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.prvWriteMessageToBuffer
+                0x00000000       0x7a ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.xStreamBufferReceive
+                0x00000000      0x13e ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.xStreamBufferNextMessageLengthBytes
+                0x00000000       0x8e ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.xStreamBufferReceiveFromISR
+                0x00000000       0xe4 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.prvReadMessageFromBuffer
+                0x00000000       0x64 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.xStreamBufferIsEmpty
+                0x00000000       0x4c ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.xStreamBufferIsFull
+                0x00000000       0x5e ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.xStreamBufferSendCompletedFromISR
+                0x00000000       0x82 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.xStreamBufferReceiveCompletedFromISR
+                0x00000000       0x82 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.prvWriteBytesToBuffer
+                0x00000000       0xde ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.prvReadBytesFromBuffer
+                0x00000000       0xee ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.prvBytesInBuffer
+                0x00000000       0x3e ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.prvInitialiseNewStreamBuffer
+                0x00000000       0x64 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.uxStreamBufferGetStreamBufferNumber
+                0x00000000       0x16 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.vStreamBufferSetStreamBufferNumber
+                0x00000000       0x1a ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text.ucStreamBufferGetStreamBufferType
+                0x00000000       0x1c ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .debug_info    0x00000000     0x1a05 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .debug_abbrev  0x00000000      0x378 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .debug_aranges
+                0x00000000       0xd8 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .debug_ranges  0x00000000       0xc8 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .debug_line    0x00000000      0x8b0 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .debug_str     0x00000000      0xbf3 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .comment       0x00000000       0x80 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .debug_frame   0x00000000      0x3a0 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .ARM.attributes
+                0x00000000       0x33 ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+ .text          0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .data          0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .bss           0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.vTaskDelete
+                0x00000000      0x138 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.vTaskDelayUntil
+                0x00000000       0xfc ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.vTaskDelay
+                0x00000000       0x70 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.eTaskGetState
+                0x00000000       0xcc ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.uxTaskPriorityGet
+                0x00000000       0x34 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.uxTaskPriorityGetFromISR
+                0x00000000       0x58 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.vTaskPrioritySet
+                0x00000000      0x180 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.vTaskSuspend
+                0x00000000      0x140 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.prvTaskIsTaskSuspended
+                0x00000000       0x60 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.vTaskResume
+                0x00000000       0xd4 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.xTaskResumeFromISR
+                0x00000000       0xf8 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.vTaskEndScheduler
+                0x00000000       0x30 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.xTaskGetTickCount
+                0x00000000       0x1c ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x00000000       0x14 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.pcTaskGetName
+                0x00000000       0x44 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.uxTaskGetSystemState
+                0x00000000      0x11c ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.xTaskGetIdleTaskHandle
+                0x00000000       0x34 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.vTaskPlaceOnEventList
+                0x00000000       0x48 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000       0x74 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.xTaskRemoveFromEventList
+                0x00000000       0xcc ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.vTaskRemoveFromUnorderedEventList
+                0x00000000       0xc8 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.vTaskSetTimeOutState
+                0x00000000       0x4c ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.vTaskInternalSetTimeOutState
+                0x00000000       0x2c ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.xTaskCheckForTimeOut
+                0x00000000       0xc0 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.vTaskMissedYield
+                0x00000000       0x18 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.uxTaskGetTaskNumber
+                0x00000000       0x2a ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.vTaskSetTaskNumber
+                0x00000000       0x24 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.vTaskGetInfo
+                0x00000000       0xcc ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.prvListTasksWithinSingleList
+                0x00000000       0xa4 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.prvTaskCheckFreeStackSpace
+                0x00000000       0x36 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.pxTaskGetStackStart
+                0x00000000       0x2c ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.xTaskGetCurrentTaskHandle
+                0x00000000       0x1c ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.xTaskPriorityInherit
+                0x00000000      0x10c ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.xTaskPriorityDisinherit
+                0x00000000      0x110 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.vTaskPriorityDisinheritAfterTimeout
+                0x00000000      0x144 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.uxTaskResetEventItemValue
+                0x00000000       0x30 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.pvTaskIncrementMutexHeldCount
+                0x00000000       0x28 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.ulTaskNotifyTake
+                0x00000000       0x9c ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.xTaskNotifyWait
+                0x00000000       0xc8 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.xTaskGenericNotify
+                0x00000000      0x188 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.xTaskGenericNotifyFromISR
+                0x00000000      0x1d4 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.vTaskNotifyGiveFromISR
+                0x00000000      0x138 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.xTaskNotifyStateClear
+                0x00000000       0x4c ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.prvAddCurrentTaskToDelayedList
+                0x00000000       0xf0 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text          0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/timers.o
+ .data          0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/timers.o
+ .bss           0x00000000        0x0 ./ThirdParty/FreeRTOS/org/Source/timers.o
+ .debug_info    0x00000000      0x8b9 ./ThirdParty/FreeRTOS/org/Source/timers.o
+ .debug_abbrev  0x00000000      0x18b ./ThirdParty/FreeRTOS/org/Source/timers.o
+ .debug_aranges
+                0x00000000       0x18 ./ThirdParty/FreeRTOS/org/Source/timers.o
+ .debug_line    0x00000000      0x236 ./ThirdParty/FreeRTOS/org/Source/timers.o
+ .debug_str     0x00000000      0x5be ./ThirdParty/FreeRTOS/org/Source/timers.o
+ .comment       0x00000000       0x80 ./ThirdParty/FreeRTOS/org/Source/timers.o
+ .ARM.attributes
+                0x00000000       0x33 ./ThirdParty/FreeRTOS/org/Source/timers.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
+ .text.strlen   0x00000000       0x5c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
+ .debug_frame   0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-fini.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00020000         xr
+RAM              0x20020000         0x00020000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+LOAD c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+LOAD c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+LOAD ./startup/startup_ARMCM33.o
+LOAD ./startup/system_ARMCM33.o
+LOAD ./src/main.o
+LOAD ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+LOAD ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+LOAD ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+LOAD ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+LOAD ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+LOAD ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+LOAD ./ThirdParty/FreeRTOS/org/Source/croutine.o
+LOAD ./ThirdParty/FreeRTOS/org/Source/event_groups.o
+LOAD ./ThirdParty/FreeRTOS/org/Source/list.o
+LOAD ./ThirdParty/FreeRTOS/org/Source/queue.o
+LOAD ./ThirdParty/FreeRTOS/org/Source/stream_buffer.o
+LOAD ./ThirdParty/FreeRTOS/org/Source/tasks.o
+LOAD ./ThirdParty/FreeRTOS/org/Source/timers.o
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a
+LOAD c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a
+END GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+LOAD c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libm.a
+LOAD c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a
+END GROUP
+
+.text           0x00000000     0x3360
+ *(.vectors)
+ .vectors       0x00000000      0x100 ./startup/startup_ARMCM33.o
+                0x00000000                __Vectors
+                0x00000100                __Vectors_End = .
+                0x00000100                __Vectors_Size = (__Vectors_End - 0x0)
+                0x00000100                __end__ = .
+ *(.text*)
+ .text          0x00000100       0x40 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .text          0x00000140       0x74 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+                0x00000140                _start
+                0x00000140                _mainCRTStartup
+ .text          0x000001b4       0x44 ./startup/startup_ARMCM33.o
+                0x000001b4                Reset_Handler
+                0x000001f4                MRM_Handler
+                0x000001f4                DMA_Handler
+                0x000001f4                UART3_Handler
+                0x000001f4                Key_Wkup_GPIO_Handler
+                0x000001f4                UART2_Handler
+                0x000001f4                TRNG_Handler
+                0x000001f4                HardFault_Handler
+                0x000001f4                SPI_Handler
+                0x000001f4                RFCAL_Handler
+                0x000001f4                NMI_Handler
+                0x000001f4                Reserver42_Handler
+                0x000001f4                DCDC_Handler
+                0x000001f4                Reserver41_Handler
+                0x000001f4                LCD_Controller_Handler
+                0x000001f4                CMAC2SYS_Handler
+                0x000001f4                ADC_Handler
+                0x000001f4                SRC_Out_Handler
+                0x000001f4                M33_Wkup_GPIO_Handler
+                0x000001f4                RTC_Handler
+                0x000001f4                UsageFault_Handler
+                0x000001f4                Timer2_Handler
+                0x000001f4                Timer3_Handler
+                0x000001f4                PLL_Lock_Handler
+                0x000001f4                Reserver39_Handler
+                0x000001f4                Sensor_Node_Handler
+                0x000001f4                SRC_In_Handler
+                0x000001f4                DebugMon_Handler
+                0x000001f4                Reserver40_Handler
+                0x000001f4                USB_Handler
+                0x000001f4                XTAL32M_Ready_Handler
+                0x000001f4                Crypto_Handler
+                0x000001f4                PCM_Handler
+                0x000001f4                I2C_Handler
+                0x000001f4                SecureFault_Handler
+                0x000001f4                Charger_JEITA_FSM_Handler
+                0x000001f4                RFDIAG_Handler
+                0x000001f4                Default_Handler
+                0x000001f4                Motor_Controller_Handler
+                0x000001f4                Reserver36_Handler
+                0x000001f4                Reserver38_Handler
+                0x000001f4                SPI2_Handler
+                0x000001f4                Reserver46_Handler
+                0x000001f4                Timer_Handler
+                0x000001f4                MemManage_Handler
+                0x000001f4                I2C2_Handler
+                0x000001f4                Reserver43_Handler
+                0x000001f4                Reserver37_Handler
+                0x000001f4                UART_Handler
+                0x000001f4                Reserver44_Handler
+                0x000001f4                Timer4_Handler
+                0x000001f4                VBUS_Handler
+                0x000001f4                Reserver47_Handler
+                0x000001f4                BusFault_Handler
+                0x000001f4                Reserver45_Handler
+                0x000001f4                Charger_Error_Handler
+                0x000001f4                ADC2_Handler
+ .text.SystemInit
+                0x000001f8       0x1c ./startup/system_ARMCM33.o
+                0x000001f8                SystemInit
+ .text.prvSetupHardware
+                0x00000214       0x58 ./src/main.o
+ .text.main     0x0000026c       0xf8 ./src/main.o
+                0x0000026c                main
+ .text.PrintMessage
+                0x00000364       0x50 ./src/main.o
+                0x00000364                PrintMessage
+ .text.VTask1_handler
+                0x000003b4       0x4c ./src/main.o
+                0x000003b4                VTask1_handler
+ .text.VTask2_handler
+                0x00000400       0x4c ./src/main.o
+                0x00000400                VTask2_handler
+ .text._DoInit  0x0000044c       0xa4 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text.SEGGER_RTT_ReadNoLock
+                0x000004f0      0x104 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+                0x000004f0                SEGGER_RTT_ReadNoLock
+ .text.SEGGER_RTT_WriteSkipNoLock
+                0x000005f4      0x120 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+                0x000005f4                SEGGER_RTT_WriteSkipNoLock
+ .text.SEGGER_RTT_ConfigUpBuffer
+                0x00000714       0xd8 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+                0x00000714                SEGGER_RTT_ConfigUpBuffer
+ .text.SEGGER_RTT_ConfigDownBuffer
+                0x000007ec       0xd4 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+                0x000007ec                SEGGER_RTT_ConfigDownBuffer
+ .text._EncodeStr
+                0x000008c0       0x9e ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text._PreparePacket
+                0x0000095e       0x16 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text._HandleIncomingPacket
+                0x00000974       0xb8 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text._TrySendOverflowPacket
+                0x00000a2c       0xe0 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text._SendPacket
+                0x00000b0c      0x1a8 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .text.SEGGER_SYSVIEW_Init
+                0x00000cb4       0x7c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00000cb4                SEGGER_SYSVIEW_Init
+ .text.SEGGER_SYSVIEW_SetRAMBase
+                0x00000d30       0x1c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00000d30                SEGGER_SYSVIEW_SetRAMBase
+ .text.SEGGER_SYSVIEW_RecordVoid
+                0x00000d4c       0x3c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00000d4c                SEGGER_SYSVIEW_RecordVoid
+ .text.SEGGER_SYSVIEW_RecordU32
+                0x00000d88       0x78 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00000d88                SEGGER_SYSVIEW_RecordU32
+ .text.SEGGER_SYSVIEW_RecordU32x2
+                0x00000e00       0xb4 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00000e00                SEGGER_SYSVIEW_RecordU32x2
+ .text.SEGGER_SYSVIEW_Start
+                0x00000eb4      0x178 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00000eb4                SEGGER_SYSVIEW_Start
+ .text.SEGGER_SYSVIEW_Stop
+                0x0000102c       0x4c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000102c                SEGGER_SYSVIEW_Stop
+ .text.SEGGER_SYSVIEW_GetSysDesc
+                0x00001078      0x134 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00001078                SEGGER_SYSVIEW_GetSysDesc
+ .text.SEGGER_SYSVIEW_SendTaskInfo
+                0x000011ac      0x1cc ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x000011ac                SEGGER_SYSVIEW_SendTaskInfo
+ .text.SEGGER_SYSVIEW_SendTaskList
+                0x00001378       0x28 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00001378                SEGGER_SYSVIEW_SendTaskList
+ .text.SEGGER_SYSVIEW_SendSysDesc
+                0x000013a0       0x48 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x000013a0                SEGGER_SYSVIEW_SendSysDesc
+ .text.SEGGER_SYSVIEW_RecordSystime
+                0x000013e8       0x60 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x000013e8                SEGGER_SYSVIEW_RecordSystime
+ .text.SEGGER_SYSVIEW_RecordEnterISR
+                0x00001448       0x84 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00001448                SEGGER_SYSVIEW_RecordEnterISR
+ .text.SEGGER_SYSVIEW_RecordExitISR
+                0x000014cc       0x38 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x000014cc                SEGGER_SYSVIEW_RecordExitISR
+ .text.SEGGER_SYSVIEW_RecordExitISRToScheduler
+                0x00001504       0x38 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00001504                SEGGER_SYSVIEW_RecordExitISRToScheduler
+ .text.SEGGER_SYSVIEW_OnIdle
+                0x0000153c       0x38 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000153c                SEGGER_SYSVIEW_OnIdle
+ .text.SEGGER_SYSVIEW_OnTaskCreate
+                0x00001574       0x88 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00001574                SEGGER_SYSVIEW_OnTaskCreate
+ .text.SEGGER_SYSVIEW_OnTaskStartExec
+                0x000015fc       0x88 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x000015fc                SEGGER_SYSVIEW_OnTaskStartExec
+ .text.SEGGER_SYSVIEW_OnTaskStartReady
+                0x00001684       0x88 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00001684                SEGGER_SYSVIEW_OnTaskStartReady
+ .text.SEGGER_SYSVIEW_SendModule
+                0x0000170c      0x100 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000170c                SEGGER_SYSVIEW_SendModule
+ .text.SEGGER_SYSVIEW_SendModuleDescription
+                0x0000180c       0x3c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000180c                SEGGER_SYSVIEW_SendModuleDescription
+ .text.SEGGER_SYSVIEW_SendNumModules
+                0x00001848       0x7c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00001848                SEGGER_SYSVIEW_SendNumModules
+ .text.SEGGER_SYSVIEW_Print
+                0x000018c4       0xb8 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x000018c4                SEGGER_SYSVIEW_Print
+ .text.SEGGER_SYSVIEW_Warn
+                0x0000197c       0xb8 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000197c                SEGGER_SYSVIEW_Warn
+ .text._cbSendTaskList
+                0x00001a34       0x90 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .text._cbGetTime
+                0x00001ac4       0x84 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .text.SYSVIEW_AddTask
+                0x00001b48       0xd0 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+                0x00001b48                SYSVIEW_AddTask
+ .text.SYSVIEW_SendTaskInfo
+                0x00001c18       0x42 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+                0x00001c18                SYSVIEW_SendTaskInfo
+ *fill*         0x00001c5a        0x2 
+ .text._cbSendSystemDesc
+                0x00001c5c       0x1c ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+ .text.SEGGER_SYSVIEW_Conf
+                0x00001c78       0x30 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+                0x00001c78                SEGGER_SYSVIEW_Conf
+ .text.pvPortMalloc
+                0x00001ca8      0x184 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+                0x00001ca8                pvPortMalloc
+ .text.vPortFree
+                0x00001e2c       0xb0 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+                0x00001e2c                vPortFree
+ .text.prvHeapInit
+                0x00001edc       0xc4 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .text.prvInsertBlockIntoFreeList
+                0x00001fa0       0xb0 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .text.pxPortInitialiseStack
+                0x00002050       0x58 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+                0x00002050                pxPortInitialiseStack
+ .text.prvTaskExitError
+                0x000020a8       0x50 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+ *fill*         0x000020f8        0x8 
+ .text.SVC_Handler
+                0x00002100       0x28 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+                0x00002100                SVC_Handler
+ .text.prvPortStartFirstTask
+                0x00002128       0x20 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+ .text.xPortStartScheduler
+                0x00002148       0xe0 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+                0x00002148                xPortStartScheduler
+ .text.vPortEnterCritical
+                0x00002228       0x5c ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+                0x00002228                vPortEnterCritical
+ .text.vPortExitCritical
+                0x00002284       0x4c ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+                0x00002284                vPortExitCritical
+ .text.PendSV_Handler
+                0x000022d0       0x48 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+                0x000022d0                PendSV_Handler
+ .text.SysTick_Handler
+                0x00002318       0x50 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+                0x00002318                SysTick_Handler
+ .text.vPortSetupTimerInterrupt
+                0x00002368       0x44 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+                0x00002368                vPortSetupTimerInterrupt
+ .text.vPortValidateInterruptPriority
+                0x000023ac       0x78 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+                0x000023ac                vPortValidateInterruptPriority
+ .text.vListInitialise
+                0x00002424       0x3e ./ThirdParty/FreeRTOS/org/Source/list.o
+                0x00002424                vListInitialise
+ .text.vListInitialiseItem
+                0x00002462       0x18 ./ThirdParty/FreeRTOS/org/Source/list.o
+                0x00002462                vListInitialiseItem
+ .text.vListInsertEnd
+                0x0000247a       0x46 ./ThirdParty/FreeRTOS/org/Source/list.o
+                0x0000247a                vListInsertEnd
+ .text.uxListRemove
+                0x000024c0       0x52 ./ThirdParty/FreeRTOS/org/Source/list.o
+                0x000024c0                uxListRemove
+ .text.xTaskCreate
+                0x00002512       0x82 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+                0x00002512                xTaskCreate
+ .text.prvInitialiseNewTask
+                0x00002594      0x12a ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ *fill*         0x000026be        0x2 
+ .text.prvAddNewTaskToReadyList
+                0x000026c0      0x118 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.vTaskStartScheduler
+                0x000027d8       0xac ./ThirdParty/FreeRTOS/org/Source/tasks.o
+                0x000027d8                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x00002884       0x1c ./ThirdParty/FreeRTOS/org/Source/tasks.o
+                0x00002884                vTaskSuspendAll
+ .text.xTaskResumeAll
+                0x000028a0      0x140 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+                0x000028a0                xTaskResumeAll
+ .text.xTaskGetTickCountFromISR
+                0x000029e0       0x24 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+                0x000029e0                xTaskGetTickCountFromISR
+ .text.xTaskIncrementTick
+                0x00002a04      0x178 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+                0x00002a04                xTaskIncrementTick
+ .text.vTaskSwitchContext
+                0x00002b7c       0xd0 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+                0x00002b7c                vTaskSwitchContext
+ .text.prvIdleTask
+                0x00002c4c       0x30 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.prvInitialiseTaskLists
+                0x00002c7c       0x80 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.prvCheckTasksWaitingTermination
+                0x00002cfc       0x58 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.prvDeleteTCB
+                0x00002d54       0x20 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.prvResetNextTaskUnblockTime
+                0x00002d74       0x40 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .text.exit     0x00002db4       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-exit.o)
+                0x00002db4                exit
+ .text.__libc_init_array
+                0x00002dd4       0x48 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-init.o)
+                0x00002dd4                __libc_init_array
+ .text.memcmp   0x00002e1c       0x64 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcmp.o)
+                0x00002e1c                memcmp
+ .text          0x00002e80       0xec c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcpy.o)
+                0x00002e80                memcpy
+ .text.memset   0x00002f6c       0x94 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memset.o)
+                0x00002f6c                memset
+ .text.startup.register_fini
+                0x00003000       0x14 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00003014       0xe8 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o)
+                0x00003014                __call_exitprocs
+ .text.atexit   0x000030fc        0xc c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-atexit.o)
+                0x000030fc                atexit
+ .text.__libc_fini_array
+                0x00003108       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-fini.o)
+                0x00003108                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x0000313c        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+                0x0000313c                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x00003140        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+                0x00003140                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x00003144       0xc0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__atexit.o)
+                0x00003144                __register_exitproc
+ .text._exit    0x00003204        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+                0x00003204                _exit
+ *(.init)
+ .init          0x00003208        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+                0x00003208                _init
+ .init          0x0000320c        0x8 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ *(.fini)
+ .fini          0x00003214        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+                0x00003214                _fini
+ .fini          0x00003218        0x8 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x00003220       0x73 ./src/main.o
+ *fill*         0x00003293        0x1 
+ .rodata        0x00003294       0x17 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ *fill*         0x000032ab        0x1 
+ .rodata._abSync
+                0x000032ac        0xa ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ *fill*         0x000032b6        0x2 
+ .rodata        0x000032b8        0x8 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .rodata        0x000032c0       0x58 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .rodata.SYSVIEW_X_OS_TraceAPI
+                0x00003318        0x8 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+                0x00003318                SYSVIEW_X_OS_TraceAPI
+ .rodata        0x00003320       0x2d ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+ *fill*         0x0000334d        0x3 
+ .rodata        0x00003350        0x5 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ *fill*         0x00003355        0x3 
+ .rodata._global_impure_ptr
+                0x00003358        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+                0x00003358                _global_impure_ptr
+ *(.eh_frame*)
+ .eh_frame      0x0000335c        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .eh_frame      0x0000335c        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+
+.glue_7         0x00003360        0x0
+ .glue_7        0x00003360        0x0 linker stubs
+
+.glue_7t        0x00003360        0x0
+ .glue_7t       0x00003360        0x0 linker stubs
+
+.vfp11_veneer   0x00003360        0x0
+ .vfp11_veneer  0x00003360        0x0 linker stubs
+
+.v4_bx          0x00003360        0x0
+ .v4_bx         0x00003360        0x0 linker stubs
+
+.iplt           0x00003360        0x0
+ .iplt          0x00003360        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00003360                __exidx_start = .
+
+.ARM.exidx      0x00003360        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00003360        0x8 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+                0x00003368                __exidx_end = .
+                0x00003368                __etext = .
+
+.rel.dyn        0x00003368        0x0
+ .rel.iplt      0x00003368        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+
+.data           0x20020000      0x448 load address 0x00003368
+                0x20020000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.SystemCoreClock
+                0x20020000        0x4 ./startup/system_ARMCM33.o
+                0x20020000                SystemCoreClock
+ .data.UART_KEY
+                0x20020004        0x1 ./src/main.o
+                0x20020004                UART_KEY
+ *fill*         0x20020005        0x3 
+ .data.uxCriticalNesting
+                0x20020008        0x4 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+ *fill*         0x2002000c        0x4 
+ .data.impure_data
+                0x20020010      0x428 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20020438        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o)
+                0x20020438                __atexit_recursive_mutex
+                0x2002043c                . = ALIGN (0x4)
+                0x2002043c                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x2002043c                PROVIDE (__preinit_array_end = .)
+                0x2002043c                . = ALIGN (0x4)
+                0x2002043c                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x2002043c        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x20020440        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                0x20020444                PROVIDE (__init_array_end = .)
+                0x20020444                . = ALIGN (0x4)
+                0x20020444                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x20020444        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                0x20020448                PROVIDE (__fini_array_end = .)
+ *(.jcr*)
+                0x20020448                . = ALIGN (0x4)
+                0x20020448                __data_end__ = .
+
+.igot.plt       0x20020448        0x0 load address 0x000037b0
+ .igot.plt      0x20020448        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+
+.bss            0x20020448     0x4fe4 load address 0x000037b0
+                0x20020448                . = ALIGN (0x4)
+                0x20020448                __bss_start__ = .
+ *(.bss*)
+ .bss           0x20020448       0x1c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .bss.xTaskHandle1
+                0x20020464        0x4 ./src/main.o
+                0x20020464                xTaskHandle1
+ .bss.xTaskHandle2
+                0x20020468        0x4 ./src/main.o
+                0x20020468                xTaskHandle2
+ .bss._acUpBuffer
+                0x2002046c      0x400 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .bss._acDownBuffer
+                0x2002086c       0x10 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .bss._UpBuffer
+                0x2002087c     0x2000 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .bss._DownBuffer
+                0x2002287c        0x8 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .bss._SYSVIEW_Globals
+                0x20022884       0x28 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .bss._pFirstModule
+                0x200228ac        0x4 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .bss._NumModules
+                0x200228b0        0x1 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ *fill*         0x200228b1        0x3 
+ .bss._aPacket  0x200228b4       0xe3 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ *fill*         0x20022997        0x1 
+ .bss._aTasks   0x20022998       0xa0 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .bss._NumTasks
+                0x20022a38        0x4 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .bss.ucHeap    0x20022a3c     0x2800 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .bss.xStart    0x2002523c        0x8 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .bss.pxEnd     0x20025244        0x4 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .bss.xFreeBytesRemaining
+                0x20025248        0x4 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .bss.xMinimumEverFreeBytesRemaining
+                0x2002524c        0x4 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .bss.xBlockAllocatedBit
+                0x20025250        0x4 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .bss.ucMaxSysCallPriority
+                0x20025254        0x1 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+ *fill*         0x20025255        0x3 
+ .bss.ulMaxPRIGROUPValue
+                0x20025258        0x4 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+ .bss.pxCurrentTCB
+                0x2002525c        0x4 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+                0x2002525c                pxCurrentTCB
+ .bss.pxReadyTasksLists
+                0x20025260       0x64 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .bss.xDelayedTaskList1
+                0x200252c4       0x14 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .bss.xDelayedTaskList2
+                0x200252d8       0x14 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .bss.pxDelayedTaskList
+                0x200252ec        0x4 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x200252f0        0x4 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .bss.xPendingReadyList
+                0x200252f4       0x14 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .bss.xTasksWaitingTermination
+                0x20025308       0x14 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .bss.uxDeletedTasksWaitingCleanUp
+                0x2002531c        0x4 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .bss.xSuspendedTaskList
+                0x20025320       0x14 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x20025334        0x4 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .bss.xTickCount
+                0x20025338        0x4 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .bss.uxTopReadyPriority
+                0x2002533c        0x4 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .bss.xSchedulerRunning
+                0x20025340        0x4 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .bss.uxPendedTicks
+                0x20025344        0x4 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .bss.xYieldPending
+                0x20025348        0x4 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .bss.xNumOfOverflows
+                0x2002534c        0x4 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .bss.uxTaskNumber
+                0x20025350        0x4 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .bss.xNextTaskUnblockTime
+                0x20025354        0x4 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .bss.xIdleTaskHandle
+                0x20025358        0x4 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .bss.uxSchedulerSuspended
+                0x2002535c        0x4 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ *(COMMON)
+ COMMON         0x20025360       0xa8 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+                0x20025360                _SEGGER_RTT
+ COMMON         0x20025408       0x21 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+                0x20025408                __lock___atexit_recursive_mutex
+                0x2002540c                __lock___arc4random_mutex
+                0x20025410                __lock___env_recursive_mutex
+                0x20025414                __lock___sinit_recursive_mutex
+                0x20025418                __lock___malloc_recursive_mutex
+                0x2002541c                __lock___at_quick_exit_mutex
+                0x20025420                __lock___dd_hash_mutex
+                0x20025424                __lock___tz_mutex
+                0x20025428                __lock___sfp_recursive_mutex
+                0x2002542c                . = ALIGN (0x4)
+ *fill*         0x20025429        0x3 
+                0x2002542c                __bss_end__ = .
+
+.heap           0x20025430      0xc00
+                0x20025430                __HeapBase = .
+                0x20025430                __end__ = .
+                0x20025430                end = __end__
+ *(.heap*)
+ .heap          0x20025430      0xc00 ./startup/startup_ARMCM33.o
+                0x20026030                __HeapLimit = .
+
+.stack_dummy    0x20025430      0x400
+ *(.stack*)
+ .stack         0x20025430      0x400 ./startup/startup_ARMCM33.o
+                0x20040000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x2003fc00                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x20040000                PROVIDE (__stack = __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(FreeRTOS_SEGGER_Template.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x29
+ .ARM.attributes
+                0x00000000       0x1d c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.attributes
+                0x00000065       0x1b ./startup/startup_ARMCM33.o
+ .ARM.attributes
+                0x00000080       0x33 ./startup/system_ARMCM33.o
+ .ARM.attributes
+                0x000000b3       0x33 ./src/main.o
+ .ARM.attributes
+                0x000000e6       0x33 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .ARM.attributes
+                0x00000119       0x33 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .ARM.attributes
+                0x0000014c       0x33 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .ARM.attributes
+                0x0000017f       0x33 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+ .ARM.attributes
+                0x000001b2       0x33 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .ARM.attributes
+                0x000001e5       0x33 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+ .ARM.attributes
+                0x00000218       0x33 ./ThirdParty/FreeRTOS/org/Source/list.o
+ .ARM.attributes
+                0x0000024b       0x33 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .ARM.attributes
+                0x0000027e       0x2d c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000002ab       0x2d c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000002d8       0x2d c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000305       0x2d c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x00000332       0x1b c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000034d       0x2d c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000037a       0x2d c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000003a7       0x2d c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x000003d4       0x2d c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000401       0x2d c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000042e       0x2d c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000045b       0x2d c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .ARM.attributes
+                0x00000488       0x1d c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ .ARM.attributes
+                0x000004a5       0x2d c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+
+.comment        0x00000000       0x7f
+ .comment       0x00000000       0x7f ./startup/system_ARMCM33.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 ./src/main.o
+ .comment       0x0000007f       0x80 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .comment       0x0000007f       0x80 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .comment       0x0000007f       0x80 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .comment       0x0000007f       0x80 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+ .comment       0x0000007f       0x80 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .comment       0x0000007f       0x80 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+ .comment       0x0000007f       0x80 ./ThirdParty/FreeRTOS/org/Source/list.o
+ .comment       0x0000007f       0x80 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+
+.debug_line     0x00000000     0x40de
+ .debug_line    0x00000000       0x6f ./startup/startup_ARMCM33.o
+ .debug_line    0x0000006f      0x139 ./startup/system_ARMCM33.o
+ .debug_line    0x000001a8      0x38c ./src/main.o
+ .debug_line    0x00000534      0x554 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .debug_line    0x00000a88     0x1412 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .debug_line    0x00001e9a      0x3be ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .debug_line    0x00002258      0x20e ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+ .debug_line    0x00002466      0x43b ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .debug_line    0x000028a1      0x44a ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+ .debug_line    0x00002ceb      0x3c6 ./ThirdParty/FreeRTOS/org/Source/list.o
+ .debug_line    0x000030b1     0x102d ./ThirdParty/FreeRTOS/org/Source/tasks.o
+
+.debug_info     0x00000000     0xb9ef
+ .debug_info    0x00000000       0x26 ./startup/startup_ARMCM33.o
+ .debug_info    0x00000026       0xb5 ./startup/system_ARMCM33.o
+ .debug_info    0x000000db     0x181b ./src/main.o
+ .debug_info    0x000018f6     0x16b5 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .debug_info    0x00002fab     0x3ae6 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .debug_info    0x00006a91      0xb89 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .debug_info    0x0000761a      0x10b ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+ .debug_info    0x00007725      0xbf6 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .debug_info    0x0000831b      0x4ce ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+ .debug_info    0x000087e9      0xad7 ./ThirdParty/FreeRTOS/org/Source/list.o
+ .debug_info    0x000092c0     0x272f ./ThirdParty/FreeRTOS/org/Source/tasks.o
+
+.debug_abbrev   0x00000000     0x15f2
+ .debug_abbrev  0x00000000       0x14 ./startup/startup_ARMCM33.o
+ .debug_abbrev  0x00000014       0x60 ./startup/system_ARMCM33.o
+ .debug_abbrev  0x00000074      0x23f ./src/main.o
+ .debug_abbrev  0x000002b3      0x2d3 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .debug_abbrev  0x00000586      0x333 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .debug_abbrev  0x000008b9      0x220 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .debug_abbrev  0x00000ad9       0xb2 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+ .debug_abbrev  0x00000b8b      0x2d1 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .debug_abbrev  0x00000e5c      0x202 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+ .debug_abbrev  0x0000105e      0x202 ./ThirdParty/FreeRTOS/org/Source/list.o
+ .debug_abbrev  0x00001260      0x392 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+
+.debug_aranges  0x00000000      0x760
+ .debug_aranges
+                0x00000000       0x20 ./startup/startup_ARMCM33.o
+ .debug_aranges
+                0x00000020       0x28 ./startup/system_ARMCM33.o
+ .debug_aranges
+                0x00000048       0x40 ./src/main.o
+ .debug_aranges
+                0x00000088      0x110 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .debug_aranges
+                0x00000198      0x268 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .debug_aranges
+                0x00000400       0x48 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .debug_aranges
+                0x00000448       0x28 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+ .debug_aranges
+                0x00000470       0x50 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .debug_aranges
+                0x000004c0       0x78 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+ .debug_aranges
+                0x00000538       0x40 ./ThirdParty/FreeRTOS/org/Source/list.o
+ .debug_aranges
+                0x00000578      0x1e8 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+
+.debug_str      0x00000000     0x37dd
+ .debug_str     0x00000000       0x67 ./startup/startup_ARMCM33.o
+ .debug_str     0x00000067      0x160 ./startup/system_ARMCM33.o
+                                0x1d9 (size before relaxing)
+ .debug_str     0x000001c7     0x119c ./src/main.o
+                               0x137b (size before relaxing)
+ .debug_str     0x00001363      0x42f ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+                                0x9b4 (size before relaxing)
+ .debug_str     0x00001792      0xc79 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                               0x1309 (size before relaxing)
+ .debug_str     0x0000240b      0x10c ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+                                0x72d (size before relaxing)
+ .debug_str     0x00002517       0x63 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+                                0x255 (size before relaxing)
+ .debug_str     0x0000257a      0x220 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+                                0x7c5 (size before relaxing)
+ .debug_str     0x0000279a      0x257 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+                                0x44b (size before relaxing)
+ .debug_str     0x000029f1      0x13b ./ThirdParty/FreeRTOS/org/Source/list.o
+                                0x6fb (size before relaxing)
+ .debug_str     0x00002b2c      0xcb1 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+                               0x142c (size before relaxing)
+
+.debug_ranges   0x00000000      0x6a0
+ .debug_ranges  0x00000000       0x18 ./startup/system_ARMCM33.o
+ .debug_ranges  0x00000018       0x30 ./src/main.o
+ .debug_ranges  0x00000048      0x100 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .debug_ranges  0x00000148      0x258 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .debug_ranges  0x000003a0       0x38 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .debug_ranges  0x000003d8       0x18 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+ .debug_ranges  0x000003f0       0x40 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .debug_ranges  0x00000430       0x68 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+ .debug_ranges  0x00000498       0x30 ./ThirdParty/FreeRTOS/org/Source/list.o
+ .debug_ranges  0x000004c8      0x1d8 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+
+.debug_frame    0x00000000     0x2084
+ .debug_frame   0x00000000       0x50 ./startup/system_ARMCM33.o
+ .debug_frame   0x00000050       0xb8 ./src/main.o
+ .debug_frame   0x00000108      0x478 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .debug_frame   0x00000580      0xb5c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .debug_frame   0x000010dc      0x100 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .debug_frame   0x000011dc       0x48 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+ .debug_frame   0x00001224      0x108 ./ThirdParty/FreeRTOS/org/Source/portable/MemMang/heap_4.o
+ .debug_frame   0x0000132c      0x198 ./ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3/port.o
+ .debug_frame   0x000014c4       0xd8 ./ThirdParty/FreeRTOS/org/Source/list.o
+ .debug_frame   0x0000159c      0x870 ./ThirdParty/FreeRTOS/org/Source/tasks.o
+ .debug_frame   0x00001e0c       0x28 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-exit.o)
+ .debug_frame   0x00001e34       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-init.o)
+ .debug_frame   0x00001e60       0x38 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcmp.o)
+ .debug_frame   0x00001e98       0x38 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memset.o)
+ .debug_frame   0x00001ed0       0x5c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00001f2c       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00001f4c       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-fini.o)
+ .debug_frame   0x00001f80       0xb0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-lock.o)
+ .debug_frame   0x00002030       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-__atexit.o)
+ .debug_frame   0x00002064       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)

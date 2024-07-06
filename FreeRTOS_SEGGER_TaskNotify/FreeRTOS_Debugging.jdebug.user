@@ -1,0 +1,43 @@
+Breakpoint=main.c:54, State=BP_STATE_DISABLED
+Breakpoint=main.c:62, State=BP_STATE_DISABLED
+Breakpoint=main.c:91, State=BP_STATE_ON
+Breakpoint=main.c:99, State=BP_STATE_DISABLED
+Breakpoint=main.c:103, State=BP_STATE_DISABLED
+Breakpoint=main.c:127, State=BP_STATE_DISABLED
+Breakpoint=main.c:131, State=BP_STATE_DISABLED
+Breakpoint=main.c:191, State=BP_STATE_DISABLED
+Breakpoint=port.c:427, State=BP_STATE_ON
+OpenDocument="SEGGER_SYSVIEW.c", FilePath="C:\Projects\Eclipse_projects\FreeRTOS_SEGGER_TaskNotify\Debug\../ThirdParty/SEGGER/SEGGER\SEGGER_SYSVIEW.c", Line=1827
+OpenDocument="portmacro.h", FilePath="C:\Projects\Eclipse_projects\FreeRTOS_SEGGER_TaskNotify\ThirdParty\FreeRTOS\org\Source\portable\GCC\ARM_CM3\portmacro.h", Line=180
+OpenDocument="main.c", FilePath="C:\Projects\Eclipse_projects\FreeRTOS_SEGGER_TaskNotify\Debug\../src\main.c", Line=81
+OpenDocument="heap_4.c", FilePath="C:\Projects\Eclipse_projects\FreeRTOS_SEGGER_TaskNotify\Debug\../ThirdParty/FreeRTOS/org/Source/portable/MemMang\heap_4.c", Line=373
+OpenDocument="port.c", FilePath="C:\Projects\Eclipse_projects\FreeRTOS_SEGGER_TaskNotify\Debug\../ThirdParty/FreeRTOS/org/Source/portable/GCC/ARM_CM3\port.c", Line=419
+OpenDocument="list.c", FilePath="C:\Projects\Eclipse_projects\FreeRTOS_SEGGER_Template\Debug\../ThirdParty/FreeRTOS/org/Source\list.c", Line=71
+OpenDocument="system_ARMCM33.c", FilePath="C:\Projects\Eclipse_projects\FreeRTOS_SEGGER_Template\Debug\../src\system_ARMCM33.c", Line=0
+OpenDocument="SEGGER_RTT.h", FilePath="C:\Projects\FreeRTOS\RTOS_Workspace\RTOS_UART_DEMO_2\Debug\../ThirdParty/SEGGER/SEGGER\SEGGER_RTT.h", Line=0
+OpenDocument="tasks.c", FilePath="C:\Projects\FreeRTOS\RTOS_Workspace\RTOS_UART_DEMO_2\Debug\../ThirdParty/FreeRTOS/org/Source\tasks.c", Line=2773
+OpenDocument="startup_ARMCM33.S", FilePath="C:\Users\iahamed\Desktop\14690\booter\booter_prj\Debug\../src\startup_ARMCM33.S", Line=171
+OpenToolbar="File", Floating=0, x=1, y=0
+OpenToolbar="View", Floating=0, x=2, y=0
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenToolbar="Breakpoints", Floating=0, x=3, y=0
+OpenWindow="Call Stack", DockArea=RIGHT, x=0, y=0, w=121, h=482, FilterBarShown=0
+OpenWindow="Registers 1", DockArea=LEFT, x=0, y=2, w=625, h=338, FilterBarShown=0, FilteredItems=[]
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=2, w=625, h=338, FilterBarShown=1
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=1, w=121, h=457, FilterBarShown=0, ExecCountersShown=0
+OpenWindow="Source", x=0, y=0, w=0, h=0, FilterBarShown=0, ExecCountersShown=0
+OpenWindow="Break & Tracepoints", DockArea=LEFT, x=0, y=1, w=625, h=300, FilterBarShown=0
+OpenWindow="Memory 1", DockArea=BOTTOM, x=0, y=0, w=1920, h=114, FilterBarShown=0, EditorAddress=0x2002087C
+OpenWindow="Global Data", DockArea=RIGHT, x=0, y=1, w=121, h=457, FilterBarShown=1
+OpenWindow="Local Data", DockArea=RIGHT, x=0, y=1, w=121, h=457, FilterBarShown=0
+OpenWindow="Watched Data", DockArea=LEFT, x=0, y=2, w=625, h=338, FilterBarShown=0
+OpenWindow="Functions", DockArea=LEFT, x=0, y=0, w=625, h=300, FilterBarShown=1
+TableHeader="Watched Data", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Size";"Refresh";"Type"], ColWidths=[91;94;94;54;74;218]
+TableHeader="Global Data", SortCol="Location", SortOrder="DESCENDING", VisibleCols=["Name";"Value";"Location";"Size";"Type"], ColWidths=[217;198;94;54;100]
+TableHeader="Local Data", SortCol="Value", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Location";"Size";"Type"], ColWidths=[146;94;94;31;100]
+TableHeader="Source Files", SortCol="Status", SortOrder="ASCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[239;66;54;31;618]
+TableHeader="Registers 1", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Description"], ColWidths=[39;119;65]
+TableHeader="Break & Tracepoints", SortCol="None", SortOrder="ASCENDING", VisibleCols=["";"Type";"Location";"Extras"], ColWidths=[55;56;189;325]
+TableHeader="Functions", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Address";"Size";"#Insts";"Source"], ColWidths=[201;64;44;57;242]
+TableHeader="Call Stack", SortCol="Function", SortOrder="ASCENDING", VisibleCols=["Function";"Stack Info";"Source";"PC";"Return Address"], ColWidths=[344;112;176;77;87]
+TableHeader="tableWidgetSamples", SortCol="Index", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Channel 0"], ColWidths=[72;102;108]
